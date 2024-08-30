@@ -1,0 +1,68 @@
+body{
+    background-image: url("xfce-leaves.svg");
+    background-size: 500%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+}
+.BIODATA {
+    font-family: Courier;
+    color: #DECF93;
+    text-align: center;
+}
+.gambar{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+}
+.info{
+    text-align: center;
+    font-family: serif;
+    color: #DECF93;
+}
+.biodata_judul{
+    margin-left: auto;
+    margin-right: auto;
+    color: #DECF93;
+    background-color:#D4625E;
+    padding: 10px;
+    width: 1650px;
+    border-radius: 10px;
+}
+.biodata_teman{
+    display: flex;
+}
+.tengah{
+    font-family: 'Times New Roman';
+    color: #31303A;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: #DECF93;
+    padding: 4px;
+    width: 750px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gambar_teman{
+    width: 250px;
+    height: 250px;
+    float: left;
+    object-fit: cover;
+    display: block;
+    margin-right: auto;
+    padding: 5px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.spasi{
+    padding: 5px;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+
